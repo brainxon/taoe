@@ -1,0 +1,9 @@
+
+# Created by brainxon
+
+### ltspice ###
+*.raw
+*.log
+*.net
+
+# End of brainxon
